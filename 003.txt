@@ -1,1 +1,2 @@
-git
+#git
+docker run -it ubuntu bash 
